@@ -2,6 +2,7 @@
 1. Using PostgreSQL interactive terminal (not the web user interface), implement the company database schema given in Figure 5.5 of the database textbook. You first need to create corresponding tables and then insert the tuples in Figure 5.6. Domain, key, entity, and referential integrity constraints should be preserved.
  
 2. Using Empedded SQL in C (ecpg), write a program to implement the following:
+
     a. Your program should input the SSN of employee, project number, hours for the project, and salary for the employee.
     
     b. Firstly, list the employee’s name, employee’s department name, salary, and the number of dependents.
